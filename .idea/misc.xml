@@ -6,8 +6,12 @@
         <entry key="..\:/Users/eshan/Desktop/UOC/EIT Physics/Android projects/DataStructuresProject/app/src/main/res/drawable/corner_text.xml" value="0.163" />
         <entry key="..\:/Users/eshan/Desktop/UOC/EIT Physics/Android projects/DataStructuresProject/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.163" />
         <entry key="..\:/Users/eshan/Desktop/UOC/EIT Physics/Android projects/DataStructuresProject/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/eshan/Desktop/UOC/EIT Physics/Android projects/DataStructuresProject/app/src/main/res/layout/btree.xml" value="0.2359375" />
+        <entry key="..\:/Users/eshan/Desktop/UOC/EIT Physics/Android projects/DataStructuresProject/app/src/main/res/layout/btree.xml" value="0.1" />
         <entry key="..\:/Users/eshan/Desktop/UOC/EIT Physics/Android projects/DataStructuresProject/app/src/main/res/layout/bucket.xml" value="0.2359375" />
+        <entry key="..\:/Users/eshan/Desktop/UOC/EIT Physics/Android projects/DataStructuresProject/app/src/main/res/layout/fragment_array_wise.xml" value="0.264" />
+        <entry key="..\:/Users/eshan/Desktop/UOC/EIT Physics/Android projects/DataStructuresProject/app/src/main/res/layout/fragment_number_wise.xml" value="0.264" />
+        <entry key="..\:/Users/eshan/Desktop/UOC/EIT Physics/Android projects/DataStructuresProject/app/src/main/res/layout/splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/eshan/Desktop/UOC/EIT Physics/Android projects/DataStructuresProject/app/src/main/res/layout/welcome.xml" value="0.2359375" />
       </map>
     </option>
   </component>
