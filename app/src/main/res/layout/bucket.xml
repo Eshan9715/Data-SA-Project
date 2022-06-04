@@ -149,6 +149,7 @@
                     android:text="Inserted Array"/>
 
                 <TextView
+                    android:id="@+id/array_input"
                     android:layout_width="match_parent"
                     android:layout_height="55dp"
                     android:textSize="14sp"
@@ -212,6 +213,7 @@
                     android:text="Sorted Array"/>
 
                 <TextView
+                    android:id="@+id/array_output"
                     android:layout_width="match_parent"
                     android:layout_height="55dp"
                     android:textSize="14sp"
