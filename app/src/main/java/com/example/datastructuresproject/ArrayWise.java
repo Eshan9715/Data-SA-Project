@@ -255,10 +255,10 @@ public class ArrayWise extends Fragment {
         node_2.setText(Arrays.toString(node_2_arr));
         node_3.setText(Arrays.toString(node_3_arr));
 
-        root.setBackgroundResource(R.color.light_blue);
-        node_1.setBackgroundResource(R.color.light_blue);
-        node_2.setBackgroundResource(R.color.light_blue);
-        node_3.setBackgroundResource(R.color.light_blue);
+        root.setBackgroundResource(R.color.teal_200);
+        node_1.setBackgroundResource(R.color.l_green);
+        node_2.setBackgroundResource(R.color.l_green);
+        node_3.setBackgroundResource(R.color.l_green);
 
     }
 
@@ -292,10 +292,10 @@ public class ArrayWise extends Fragment {
                 @Override
                 public void onClick(View view) {
                     number_array.setText("");
-                    root.setBackgroundResource(R.color.light_blue);
-                    node_1.setBackgroundResource(R.color.light_blue);
-                    node_2.setBackgroundResource(R.color.light_blue);
-                    node_3.setBackgroundResource(R.color.light_blue);
+                    root.setBackgroundResource(R.color.teal_200);
+                    node_1.setBackgroundResource(R.color.l_green);
+                    node_2.setBackgroundResource(R.color.l_green);
+                    node_3.setBackgroundResource(R.color.l_green);
                 }
             });
 

@@ -112,7 +112,7 @@ public class NumberWise extends Fragment {
                 a = arrayList3.get(0);
                 root_arr[0] = a;
                 root.setText(Arrays.toString(root_arr));
-                root.setBackgroundResource(R.color.light_blue);
+                root.setBackgroundResource(R.color.teal_200);
             }
             if (increment == 2) {
                 b = arrayList3.get(1);
@@ -139,8 +139,8 @@ public class NumberWise extends Fragment {
                 node_1.setText(Arrays.toString(node_1_arr));
                 node_3.setText(Arrays.toString(node_3_arr));
 
-                node_1.setBackgroundResource(R.color.light_blue);
-                node_3.setBackgroundResource(R.color.light_blue);
+                node_1.setBackgroundResource(R.color.l_green);
+                node_3.setBackgroundResource(R.color.l_green);
             }
             if (increment == 4) {
                 d = arrayList3.get(3);
@@ -179,7 +179,7 @@ public class NumberWise extends Fragment {
                         node_2_arr[0] = z1[2];
                         node_1.setText(Arrays.toString(node_1_arr));
                         root.setText(Arrays.toString(root_arr));
-                        node_2.setBackgroundResource(R.color.light_blue);
+                        node_2.setBackgroundResource(R.color.l_green);
                         node_2.setText(Arrays.toString(node_2_arr));
 
                     }
@@ -206,7 +206,7 @@ public class NumberWise extends Fragment {
                         node_2_arr[0] = z1[0];
                         node_3_arr[0] = z1[2];
                         root.setText(Arrays.toString(root_arr));
-                        node_2.setBackgroundResource(R.color.light_blue);
+                        node_2.setBackgroundResource(R.color.l_green);
                         node_2.setText(Arrays.toString(node_2_arr));
                         node_3.setText(Arrays.toString(node_3_arr));
 
@@ -236,7 +236,7 @@ public class NumberWise extends Fragment {
                         node_1_arr[0] = z2[0];
                         node_2_arr[0] = z2[2];
                         node_1.setText(Arrays.toString(node_1_arr));
-                        node_2.setBackgroundResource(R.color.light_blue);
+                        node_2.setBackgroundResource(R.color.l_green);
                         node_2.setText(Arrays.toString(node_2_arr));
 
                     }
@@ -263,7 +263,7 @@ public class NumberWise extends Fragment {
                         node_2_arr[0] = z2[0];
                         node_3_arr[0] = z2[2];
                         root.setText(Arrays.toString(root_arr));
-                        node_2.setBackgroundResource(R.color.light_blue);
+                        node_2.setBackgroundResource(R.color.l_green);
                         node_2.setText(Arrays.toString(node_2_arr));
                         node_3.setText(Arrays.toString(node_3_arr));
 
@@ -307,10 +307,10 @@ public class NumberWise extends Fragment {
                 @Override
                 public void onClick(View view) {
                     number_array.setText("");
-                    root.setBackgroundResource(R.color.light_blue);
-                    node_1.setBackgroundResource(R.color.light_blue);
-                    node_2.setBackgroundResource(R.color.light_blue);
-                    node_3.setBackgroundResource(R.color.light_blue);
+                    root.setBackgroundResource(R.color.teal_200);
+                    node_1.setBackgroundResource(R.color.l_green);
+                    node_2.setBackgroundResource(R.color.l_green);
+                    node_3.setBackgroundResource(R.color.l_green);
                 }
             });
         }
